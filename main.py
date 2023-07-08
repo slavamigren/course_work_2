@@ -26,4 +26,3 @@ while player.get_used_words() != word.get_options_amount():
         print('верно\n')
 
 print(get_statistic(player))
-#123
